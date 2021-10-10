@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+User-agent: AdsBot-Google
+Allow: /
+Sitemap: https://lilly-website.herokuapp.com/sitemaps/sitemap.xml
